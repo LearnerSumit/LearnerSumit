@@ -1,30 +1,70 @@
-<h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<div align="center">
+  <!--<img width="500px" src="https://github.com/pourushsiddharth/pourushsiddharth/blob/main/profile.png" alt="Banner">-->
+  <img src="https://github.com/pourushsiddharth/pourushsiddharth/blob/main/banner.png" alt="Banner">
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=learnersumit&label=Profile%20views&color=0e75b6&style=flat" alt="learnersumit" /> </p>
+<h1 align="center">Hi 👋, I'm Pourush Siddharth</h1>
+<h3 align="center">Code, Deploy, Repeat</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=learnersumit" alt="learnersumit" /></a> </p>
+<p align="center"> 
+  <a href="https://twitter.com/pourushsidd" target="blank"><img src="https://img.shields.io/twitter/follow/pourushsidd?logo=twitter&style=for-the-badge" alt="pourushsidd" /></a> 
+  <a href="https://www.linkedin.com/in/pourushsiddharth" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="pourushsid" /></a>
 
-- 🌱 I’m currently learning **JavaScript , React**
-
-- 💬 Ask me about **HTML ,CSS, JS**
-
-- 📫 How to reach me **sumitdbg255@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/uc?export=download&id=1jcTKPrBsrJG7sCobwLr9cmHWdX_CiTfA](https://drive.google.com/uc?export=download&id=1jcTKPrBsrJG7sCobwLr9cmHWdX_CiTfA)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sumit-kumar-16474b216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumit-kumar-16474b216" height="30" width="40" /></a>
-<a href="https://instagram.com/itz_sumit.7762" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz_sumit.7762" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/engg. job wala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="engg. job wala" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+## About Me ℹ️
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=learnersumit&show_icons=true&locale=en&layout=compact" alt="learnersumit" /></p>
+Hey there! 👋 I'm Pourush Siddharth, a passionate software developer with a knack for turning ideas into reality through code. My journey in the tech world has been a thrilling adventure filled with creativity and innovation.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=learnersumit&show_icons=true&locale=en" alt="learnersumit" /></p>
+### 🔭 Currently Working On
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=learnersumit&" alt="learnersumit" /></p>
+I'm currently immersed in **Filmies**, an exhilarating project where I'm spearheading the development of an OTT platform. From crafting seamless user experiences to architecting robust backend systems, I'm dedicated to delivering excellence in every aspect of the project.
+
+### 🌱 Learning Journey
+
+Driven by a relentless curiosity, I'm on a continuous quest to expand my skill set and stay abreast of the latest technologies. Currently, I'm delving deep into **Java**, **Node.js**, **Flask**, and **Prompt Engineering**, eager to unlock new possibilities and refine my craft.
+
+### 💬 Ask Me About
+
+Whether it's crafting pixel-perfect frontend designs, architecting scalable backend solutions, or exploring the depths of artificial intelligence, I'm here to share my insights and expertise. Feel free to reach out with your questions or ideas!
+
+### 📫 How to Reach Me
+
+Got a project in mind or just want to connect? Don't hesitate to drop me an email at pourushsiddharth@gmail.com. I'm always open to new opportunities, collaborations, and engaging conversations!
+
+### ⚡ Fun Fact
+
+Here's a fun fact about me: I respond slowly, but I believe in the power of thoughtful and meaningful interactions. So rest assured, your message won't go unnoticed!
+
+---
+
+
+
+## 🚀 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pourushsiddharth&show_icons=true&locale=en&theme=algolia" alt="GitHub Stats" />
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pourushsiddharth&theme=algolia" alt="GitHub Profile Trophy" />
+</div>
+
+
+## 📊 Languages and Tools
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pourushsiddharth&layout=compact&theme=algolia" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pourushsiddharth&theme=algolia" alt="GitHub Streak Stats" />
+</div>
+
+---
+
+<div align="center">
+  <p>Thanks for stopping by! Feel free to connect with me and explore my projects. Let's build something amazing together! 🚀</p>
+</div>
