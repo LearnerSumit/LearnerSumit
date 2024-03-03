@@ -1,6 +1,6 @@
 <div align="center">
   <!--<img width="500px" src="https://github.com/LearnerSumit/LearnerSumit/blob/main/profile.jpeg" alt="Banner">-->
-  <img src="https://github.com/pourushsiddharth/pourushsiddharth/blob/main/banner.png" alt="Banner">
+  <img src="https://github.com/LearnerSumit/LearnerSumit/blob/main/banner.png" alt="Banner">
 </div>
 
 <h1 align="center">Hi 👋, I'm Pourush Siddharth</h1>
