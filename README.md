@@ -8,7 +8,7 @@
 
 <p align="center"> 
   <a href="https://twitter.com/Sumit" target="blank"><img src="https://img.shields.io/twitter/follow/Sumit?logo=twitter&style=for-the-badge" alt="Sumit" /></a> 
-  <a href="https://www.linkedin.com/in/pourushsiddharth" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="Sumit" /></a>
+  <a href="https://www.linkedin.com/in/sumit-kumar-16474b216" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="Sumit" /></a>
 
 </p>
 
@@ -30,7 +30,7 @@ Whether it's crafting pixel-perfect frontend designs, architecting scalable back
 
 ### 📫 How to Reach Me
 
-Got a project in mind or just want to connect? Don't hesitate to drop me an email at pourushsiddharth@gmail.com. I'm always open to new opportunities, collaborations, and engaging conversations!
+Got a project in mind or just want to connect? Don't hesitate to drop me an email at sumitdbg255@gmail.com. I'm always open to new opportunities, collaborations, and engaging conversations!
 
 ### ⚡ Fun Fact
 
@@ -43,7 +43,7 @@ Here's a fun fact about me: I respond slowly, but I believe in the power of thou
 ## 🚀 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pourushsiddharth&show_icons=true&locale=en&theme=algolia" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LearnerSumit&show_icons=true&locale=en&theme=algolia" alt="GitHub Stats" />
 </div>
 
 ## 🏆 GitHub Trophies
