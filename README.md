@@ -18,11 +18,11 @@ Hey there! 👋 I'm Sumit Kumar, a passionate software developer with a knack fo
 
 ### 🔭 Currently Working On
 
-I'm currently immersed in **Filmies**, an exhilarating project where I'm spearheading the development of an OTT platform. From crafting seamless user experiences to architecting robust backend systems, I'm dedicated to delivering excellence in every aspect of the project.
+I'm currently immersed in **QADB**, an exhilarating project where I'm spearheading the development of an Edu Tech Platfrom. From crafting seamless user experiences to architecting robust backend systems, I'm dedicated to delivering excellence in every aspect of the project.
 
 ### 🌱 Learning Journey
 
-Driven by a relentless curiosity, I'm on a continuous quest to expand my skill set and stay abreast of the latest technologies. Currently, I'm delving deep into **Java**, **Node.js**, **Flask**, and **Prompt Engineering**, eager to unlock new possibilities and refine my craft.
+Driven by a relentless curiosity, I'm on a continuous quest to expand my skill set and stay abreast of the latest technologies. Currently, I'm delving deep into **Java**, **Node.js**, **Flask**,**C++** and **Prompt Engineering**, eager to unlock new possibilities and refine my craft.
 
 ### 💬 Ask Me About
 
