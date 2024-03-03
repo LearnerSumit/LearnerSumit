@@ -3,18 +3,18 @@
   <img src="https://github.com/LearnerSumit/LearnerSumit/blob/main/banner.png" alt="Banner">
 </div>
 
-<h1 align="center">Hi 👋, I'm Pourush Siddharth</h1>
+<h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
 <h3 align="center">Code, Deploy, Repeat</h3>
 
 <p align="center"> 
-  <a href="https://twitter.com/pourushsidd" target="blank"><img src="https://img.shields.io/twitter/follow/pourushsidd?logo=twitter&style=for-the-badge" alt="pourushsidd" /></a> 
-  <a href="https://www.linkedin.com/in/pourushsiddharth" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="pourushsid" /></a>
+  <a href="https://twitter.com/Sumit" target="blank"><img src="https://img.shields.io/twitter/follow/Sumit?logo=twitter&style=for-the-badge" alt="Sumit" /></a> 
+  <a href="https://www.linkedin.com/in/pourushsiddharth" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="Sumit" /></a>
 
 </p>
 
 ## About Me ℹ️
 
-Hey there! 👋 I'm Pourush Siddharth, a passionate software developer with a knack for turning ideas into reality through code. My journey in the tech world has been a thrilling adventure filled with creativity and innovation.
+Hey there! 👋 I'm Sumit Kumar, a passionate software developer with a knack for turning ideas into reality through code. My journey in the tech world has been a thrilling adventure filled with creativity and innovation.
 
 ### 🔭 Currently Working On
 
@@ -49,18 +49,18 @@ Here's a fun fact about me: I respond slowly, but I believe in the power of thou
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pourushsiddharth&theme=algolia" alt="GitHub Profile Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=LearnerSumit&theme=algolia" alt="GitHub Profile Trophy" />
 </div>
 
 
 ## 📊 Languages and Tools
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pourushsiddharth&layout=compact&theme=algolia" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LearnerSumit&layout=compact&theme=algolia" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pourushsiddharth&theme=algolia" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LearnerSumit&theme=algolia" alt="GitHub Streak Stats" />
 </div>
 
 ---
